@@ -1,0 +1,16 @@
+/*--------------
+   common css
+ -------------- */
+body{
+    background-color: #AAAAAA;
+    font-family: font-family: 'Poppins', sans-serif;
+}
+.container{
+    background-color: #FFFFFF;
+    width: 80%;
+    border-radius: 5px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
